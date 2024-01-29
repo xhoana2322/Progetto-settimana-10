@@ -1,0 +1,19 @@
+body {
+        background-image: url("https://t3.ftcdn.net/jpg/01/02/64/28/360_F_102642850_Mca9lTRDH60DQin39YwCF5Jzd15lcdoo.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.feels-like {
+    font-size: 0.8rem;
+}
+
+.img-weather {
+    width: 100px;
+}
+
+.info {
+    line-height: 0.5rem;
+}
+
